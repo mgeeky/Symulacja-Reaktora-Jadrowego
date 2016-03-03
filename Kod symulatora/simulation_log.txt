@@ -1,0 +1,856 @@
+	Symulacja komputerowa pracy Reaktora Jadrowego.
+	Mariusz B., 2014/15, Uczelnia.
+
+Reakcja chemiczna rozszczepien jadrowych:
+	U235 + n -> U236 -> Mo98 + Xe136 + 2n
+	Deficyt masy po rozszczepieniu: 0.228335 unitow
+	Energia rozszczepienia jednego atomu Uranu-235: 212.710780 MeV
+
+Rozpoczecie symulacji (czas: 14:03:59).
+Zanurzenie pretow sterujacych: 50%
+
+	Trwa pokolenie 1.	Powstalo: 156 neutronow.
+	Ilosc neutronow: 156	Ilosc rozszczepien: 78
+(  0%)  Reszta neutronow: 75	Energia kin. neutronow: 0.0166 MeV
+	Temp. chwilowa: 546	Pozostalo jader: 99922
+(-)	Wsp. mnozenia: k=1.000  Stan: Krytyczny
+
+	Trwa pokolenie 2.	Powstalo: 156 neutronow.
+	Ilosc neutronow: 156	Ilosc rozszczepien: 85
+(  0%)  Reszta neutronow: 70	Energia kin. neutronow: 0.0181 MeV
+	Temp. chwilowa: 540	Pozostalo jader: 99837
+/!\	Wsp. mnozenia: k=1.090  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 3.	Powstalo: 170 neutronow.
+	Ilosc neutronow: 170	Ilosc rozszczepien: 95
+(  0%)  Reszta neutronow: 75	Energia kin. neutronow: 0.0202 MeV
+	Temp. chwilowa: 532	Pozostalo jader: 99742
+/!\	Wsp. mnozenia: k=1.118  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 4.	Powstalo: 190 neutronow.
+	Ilosc neutronow: 190	Ilosc rozszczepien: 113
+(  0%)  Reszta neutronow: 75	Energia kin. neutronow: 0.0240 MeV
+	Temp. chwilowa: 536	Pozostalo jader: 99629
+[X]	Wsp. mnozenia: k=1.189  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 5.	Powstalo: 226 neutronow.
+	Ilosc neutronow: 226	Ilosc rozszczepien: 134
+(  0%)  Reszta neutronow: 88	Energia kin. neutronow: 0.0285 MeV
+	Temp. chwilowa: 560	Pozostalo jader: 99495
+[X]	Wsp. mnozenia: k=1.186  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 6.	Powstalo: 268 neutronow.
+	Ilosc neutronow: 268	Ilosc rozszczepien: 146
+(  0%)  Reszta neutronow: 120	Energia kin. neutronow: 0.0311 MeV
+	Temp. chwilowa: 569	Pozostalo jader: 99349
+/!\	Wsp. mnozenia: k=1.090  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 7.	Powstalo: 292 neutronow.
+	Ilosc neutronow: 292	Ilosc rozszczepien: 164
+(  0%)  Reszta neutronow: 125	Energia kin. neutronow: 0.0349 MeV
+	Temp. chwilowa: 559	Pozostalo jader: 99185
+/!\	Wsp. mnozenia: k=1.123  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 8.	Powstalo: 328 neutronow.
+	Ilosc neutronow: 328	Ilosc rozszczepien: 198
+(  1%)  Reszta neutronow: 124	Energia kin. neutronow: 0.0421 MeV
+	Temp. chwilowa: 559	Pozostalo jader: 98987
+[X]	Wsp. mnozenia: k=1.207  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 9.	Powstalo: 396 neutronow.
+	Ilosc neutronow: 396	Ilosc rozszczepien: 226
+(  1%)  Reszta neutronow: 164	Energia kin. neutronow: 0.0481 MeV
+	Temp. chwilowa: 570	Pozostalo jader: 98761
+/!\	Wsp. mnozenia: k=1.141  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 10.	Powstalo: 452 neutronow.
+	Ilosc neutronow: 452	Ilosc rozszczepien: 253
+(  1%)  Reszta neutronow: 195	Energia kin. neutronow: 0.0538 MeV
+	Temp. chwilowa: 561	Pozostalo jader: 98508
+/!\	Wsp. mnozenia: k=1.119  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 11.	Powstalo: 506 neutronow.
+	Ilosc neutronow: 506	Ilosc rozszczepien: 287
+(  1%)  Reszta neutronow: 217	Energia kin. neutronow: 0.0610 MeV
+	Temp. chwilowa: 557	Pozostalo jader: 98221
+/!\	Wsp. mnozenia: k=1.134  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 12.	Powstalo: 574 neutronow.
+	Ilosc neutronow: 574	Ilosc rozszczepien: 330
+(  2%)  Reszta neutronow: 241	Energia kin. neutronow: 0.0702 MeV
+	Temp. chwilowa: 570	Pozostalo jader: 97891
+/!\	Wsp. mnozenia: k=1.150  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 13.	Powstalo: 660 neutronow.
+	Ilosc neutronow: 660	Ilosc rozszczepien: 355
+(  2%)  Reszta neutronow: 302	Energia kin. neutronow: 0.0755 MeV
+	Temp. chwilowa: 560	Pozostalo jader: 97536
+/!\	Wsp. mnozenia: k=1.076  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 14.	Powstalo: 710 neutronow.
+	Ilosc neutronow: 710	Ilosc rozszczepien: 380
+(  2%)  Reszta neutronow: 322	Energia kin. neutronow: 0.0808 MeV
+	Temp. chwilowa: 592	Pozostalo jader: 97156
+/!\	Wsp. mnozenia: k=1.070  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 15.	Powstalo: 760 neutronow.
+	Ilosc neutronow: 760	Ilosc rozszczepien: 436
+(  3%)  Reszta neutronow: 320	Energia kin. neutronow: 0.0927 MeV
+	Temp. chwilowa: 571	Pozostalo jader: 96720
+/!\	Wsp. mnozenia: k=1.147  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 16.	Powstalo: 872 neutronow.
+	Ilosc neutronow: 872	Ilosc rozszczepien: 483
+(  3%)  Reszta neutronow: 382	Energia kin. neutronow: 0.1027 MeV
+	Temp. chwilowa: 581	Pozostalo jader: 96237
+/!\	Wsp. mnozenia: k=1.108  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 17.	Powstalo: 966 neutronow.
+	Ilosc neutronow: 966	Ilosc rozszczepien: 554
+(  4%)  Reszta neutronow: 404	Energia kin. neutronow: 0.1178 MeV
+	Temp. chwilowa: 596	Pozostalo jader: 95683
+/!\	Wsp. mnozenia: k=1.147  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 18.	Powstalo: 1108 neutronow.
+	Ilosc neutronow: 1108	Ilosc rozszczepien: 611
+(  4%)  Reszta neutronow: 490	Energia kin. neutronow: 0.1300 MeV
+	Temp. chwilowa: 610	Pozostalo jader: 95072
+/!\	Wsp. mnozenia: k=1.103  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 19.	Powstalo: 1222 neutronow.
+	Ilosc neutronow: 1222	Ilosc rozszczepien: 724
+(  5%)  Reszta neutronow: 486	Energia kin. neutronow: 0.1540 MeV
+	Temp. chwilowa: 609	Pozostalo jader: 94348
+[X]	Wsp. mnozenia: k=1.185  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 20.	Powstalo: 1448 neutronow.
+	Ilosc neutronow: 1448	Ilosc rozszczepien: 793
+(  6%)  Reszta neutronow: 648	Energia kin. neutronow: 0.1687 MeV
+	Temp. chwilowa: 597	Pozostalo jader: 93555
+/!\	Wsp. mnozenia: k=1.095  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 21.	Powstalo: 1586 neutronow.
+	Ilosc neutronow: 1586	Ilosc rozszczepien: 878
+(  7%)  Reszta neutronow: 691	Energia kin. neutronow: 0.1868 MeV
+	Temp. chwilowa: 605	Pozostalo jader: 92677
+/!\	Wsp. mnozenia: k=1.107  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 22.	Powstalo: 1756 neutronow.
+	Ilosc neutronow: 1756	Ilosc rozszczepien: 967
+(  8%)  Reszta neutronow: 766	Energia kin. neutronow: 0.2057 MeV
+	Temp. chwilowa: 631	Pozostalo jader: 91710
+/!\	Wsp. mnozenia: k=1.101  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 23.	Powstalo: 1934 neutronow.
+	Ilosc neutronow: 1934	Ilosc rozszczepien: 1065
+(  9%)  Reszta neutronow: 854	Energia kin. neutronow: 0.2266 MeV
+	Temp. chwilowa: 653	Pozostalo jader: 90645
+/!\	Wsp. mnozenia: k=1.101  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 24.	Powstalo: 2130 neutronow.
+	Ilosc neutronow: 2130	Ilosc rozszczepien: 1181
+( 10%)  Reszta neutronow: 935	Energia kin. neutronow: 0.2512 MeV
+	Temp. chwilowa: 666	Pozostalo jader: 89464
+/!\	Wsp. mnozenia: k=1.109  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 25.	Powstalo: 2362 neutronow.
+	Ilosc neutronow: 2362	Ilosc rozszczepien: 1311
+( 11%)  Reszta neutronow: 1029	Energia kin. neutronow: 0.2789 MeV
+	Temp. chwilowa: 662	Pozostalo jader: 88153
+/!\	Wsp. mnozenia: k=1.110  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 26.	Powstalo: 2622 neutronow.
+	Ilosc neutronow: 2622	Ilosc rozszczepien: 1446
+( 13%)  Reszta neutronow: 1151	Energia kin. neutronow: 0.3077 MeV
+	Temp. chwilowa: 640	Pozostalo jader: 86707
+/!\	Wsp. mnozenia: k=1.103  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 27.	Powstalo: 2892 neutronow.
+	Ilosc neutronow: 2892	Ilosc rozszczepien: 1623
+( 14%)  Reszta neutronow: 1239	Energia kin. neutronow: 0.3454 MeV
+	Temp. chwilowa: 658	Pozostalo jader: 85084
+/!\	Wsp. mnozenia: k=1.122  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 28.	Powstalo: 3246 neutronow.
+	Ilosc neutronow: 3246	Ilosc rozszczepien: 1860
+( 16%)  Reszta neutronow: 1362	Energia kin. neutronow: 0.3959 MeV
+	Temp. chwilowa: 708	Pozostalo jader: 83224
+/!\	Wsp. mnozenia: k=1.146  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 29.	Powstalo: 3720 neutronow.
+	Ilosc neutronow: 3720	Ilosc rozszczepien: 2051
+( 18%)  Reszta neutronow: 1634	Energia kin. neutronow: 0.4367 MeV
+	Temp. chwilowa: 716	Pozostalo jader: 81173
+/!\	Wsp. mnozenia: k=1.103  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 30.	Powstalo: 4102 neutronow.
+	Ilosc neutronow: 4102	Ilosc rozszczepien: 2329
+( 21%)  Reszta neutronow: 1726	Energia kin. neutronow: 0.4963 MeV
+	Temp. chwilowa: 759	Pozostalo jader: 78844
+/!\	Wsp. mnozenia: k=1.136  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 31.	Powstalo: 4658 neutronow.
+	Ilosc neutronow: 4658	Ilosc rozszczepien: 2646
+( 23%)  Reszta neutronow: 1973	Energia kin. neutronow: 0.5647 MeV
+	Temp. chwilowa: 731	Pozostalo jader: 76198
+/!\	Wsp. mnozenia: k=1.136  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 32.	Powstalo: 5292 neutronow.
+	Ilosc neutronow: 5292	Ilosc rozszczepien: 2945
+( 26%)  Reszta neutronow: 2300	Energia kin. neutronow: 0.6311 MeV
+	Temp. chwilowa: 791	Pozostalo jader: 73253
+/!\	Wsp. mnozenia: k=1.113  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 33.	Powstalo: 5890 neutronow.
+	Ilosc neutronow: 5890	Ilosc rozszczepien: 3287
+( 30%)  Reszta neutronow: 2551	Energia kin. neutronow: 0.7108 MeV
+	Temp. chwilowa: 823	Pozostalo jader: 69966
+/!\	Wsp. mnozenia: k=1.116  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 34.	Powstalo: 6574 neutronow.
+	Ilosc neutronow: 6574	Ilosc rozszczepien: 3619
+( 33%)  Reszta neutronow: 2889	Energia kin. neutronow: 0.8012 MeV
+	Temp. chwilowa: 810	Pozostalo jader: 66347
+/!\	Wsp. mnozenia: k=1.101  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 35.	Powstalo: 7238 neutronow.
+	Ilosc neutronow: 7238	Ilosc rozszczepien: 4091
+( 37%)  Reszta neutronow: 3078	Energia kin. neutronow: 0.9452 MeV
+	Temp. chwilowa: 868	Pozostalo jader: 62256
+/!\	Wsp. mnozenia: k=1.130  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 36.	Powstalo: 8182 neutronow.
+	Ilosc neutronow: 8182	Ilosc rozszczepien: 4596
+( 42%)  Reszta neutronow: 3512	Energia kin. neutronow: 1.2030 MeV
+	Temp. chwilowa: 883	Pozostalo jader: 57660
+/!\	Wsp. mnozenia: k=1.123  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 37.	Powstalo: 9192 neutronow.
+	Ilosc neutronow: 9192	Ilosc rozszczepien: 5104
+( 47%)  Reszta neutronow: 4007	Energia kin. neutronow: 1.9673 MeV
+	Temp. chwilowa: 947	Pozostalo jader: 52556
+/!\	Wsp. mnozenia: k=1.111  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 38.	Powstalo: 10208 neutronow.
+	Ilosc neutronow: 10208	Ilosc rozszczepien: 5572
+( 53%)  Reszta neutronow: 4542	Energia kin. neutronow: 4.1599 MeV
+	Temp. chwilowa: 933	Pozostalo jader: 46984
+/!\	Wsp. mnozenia: k=1.092  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 39.	Powstalo: 11144 neutronow.
+	Ilosc neutronow: 11144	Ilosc rozszczepien: 6236
+( 59%)  Reszta neutronow: 4797	Energia kin. neutronow: 8.4976 MeV
+	Temp. chwilowa: 1026	Pozostalo jader: 40748
+/!\	Wsp. mnozenia: k=1.119  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 40.	Powstalo: 12472 neutronow.
+	Ilosc neutronow: 12472	Ilosc rozszczepien: 7002
+( 66%)  Reszta neutronow: 5374	Energia kin. neutronow: 19.6411 MeV
+	Temp. chwilowa: 1018	Pozostalo jader: 33746
+/!\	Wsp. mnozenia: k=1.123  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 41.	Powstalo: 14004 neutronow.
+	Ilosc neutronow: 14004	Ilosc rozszczepien: 7846
+( 74%)  Reszta neutronow: 6052	Energia kin. neutronow: 41.7387 MeV
+	Temp. chwilowa: 1089	Pozostalo jader: 25900
+/!\	Wsp. mnozenia: k=1.121  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 42.	Powstalo: 15692 neutronow.
+	Ilosc neutronow: 15692	Ilosc rozszczepien: 8754
+( 82%)  Reszta neutronow: 6786	Energia kin. neutronow: 73.7223 MeV
+	Temp. chwilowa: 1133	Pozostalo jader: 17146
+/!\	Wsp. mnozenia: k=1.116  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 43.	Powstalo: 17508 neutronow.
+	Ilosc neutronow: 17146	Ilosc rozszczepien: 9476
+( 92%)  Reszta neutronow: 7520	Energia kin. neutronow: 102.0729 MeV
+	Temp. chwilowa: 1102	Pozostalo jader: 7670
+/!\	Wsp. mnozenia: k=1.105  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 44.	Powstalo: 18952 neutronow.
+	Ilosc neutronow: 7670	Ilosc rozszczepien: 4266
+( 96%)  Reszta neutronow: 3342	Energia kin. neutronow: 46.9097 MeV
+	Temp. chwilowa: 914	Pozostalo jader: 3404
+/!\	Wsp. mnozenia: k=1.112  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 45.	Powstalo: 8532 neutronow.
+	Ilosc neutronow: 3404	Ilosc rozszczepien: 1901
+( 98%)  Reszta neutronow: 1471	Energia kin. neutronow: 0.4362 MeV
+	Temp. chwilowa: 714	Pozostalo jader: 1503
+/!\	Wsp. mnozenia: k=1.117  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 46.	Powstalo: 3802 neutronow.
+	Ilosc neutronow: 1503	Ilosc rozszczepien: 812
+( 99%)  Reszta neutronow: 674	Energia kin. neutronow: 0.1728 MeV
+	Temp. chwilowa: 628	Pozostalo jader: 691
+/!\	Wsp. mnozenia: k=1.081  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 47.	Powstalo: 1624 neutronow.
+	Ilosc neutronow: 691	Ilosc rozszczepien: 373
+( 99%)  Reszta neutronow: 313	Energia kin. neutronow: 0.0793 MeV
+	Temp. chwilowa: 562	Pozostalo jader: 318
+/!\	Wsp. mnozenia: k=1.080  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 48.	Powstalo: 746 neutronow.
+	Ilosc neutronow: 318	Ilosc rozszczepien: 189
+( 99%)  Reszta neutronow: 125	Energia kin. neutronow: 0.0402 MeV
+	Temp. chwilowa: 534	Pozostalo jader: 129
+[X]	Wsp. mnozenia: k=1.189  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 49.	Powstalo: 378 neutronow.
+	Ilosc neutronow: 129	Ilosc rozszczepien: 60
+( 99%)  Reszta neutronow: 67	Energia kin. neutronow: 0.0128 MeV
+	Temp. chwilowa: 541	Pozostalo jader: 69
+[X]	Wsp. mnozenia: k=0.930  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 50.	Powstalo: 120 neutronow.
+	Ilosc neutronow: 69	Ilosc rozszczepien: 37
+( 99%)  Reszta neutronow: 31	Energia kin. neutronow: 0.0079 MeV
+	Temp. chwilowa: 531	Pozostalo jader: 32
+/!\	Wsp. mnozenia: k=1.072  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 51.	Powstalo: 74 neutronow.
+	Ilosc neutronow: 32	Ilosc rozszczepien: 15
+( 99%)  Reszta neutronow: 17	Energia kin. neutronow: 0.0032 MeV
+	Temp. chwilowa: 534	Pozostalo jader: 17
+[X]	Wsp. mnozenia: k=0.938  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 52.	Powstalo: 30 neutronow.
+	Ilosc neutronow: 17	Ilosc rozszczepien: 8
+( 99%)  Reszta neutronow: 8	Energia kin. neutronow: 0.0017 MeV
+	Temp. chwilowa: 541	Pozostalo jader: 9
+[X]	Wsp. mnozenia: k=0.941  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 53.	Powstalo: 16 neutronow.
+	Ilosc neutronow: 9	Ilosc rozszczepien: 5
+( 99%)  Reszta neutronow: 4	Energia kin. neutronow: 0.0011 MeV
+	Temp. chwilowa: 550	Pozostalo jader: 4
+/!\	Wsp. mnozenia: k=1.111  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 54.	Powstalo: 10 neutronow.
+
+Statystyki symulacji:
+	Czas rozpoczecia: 14:03:59	Czas zakonczenia: 14:05:16
+	Ilosc rozszczepien: 99997	Sr. energia neutronow: 5.615 MeV
+	Srednia temperatura: 679.71 K	Sredni wsp. mnozenia: 1.0763
+	Maksymalna temp.: 1133.20 K	Maksymalny wsp. mnozenia: 1.2073
+	Max. neutronow: 17146		Ilosc pokolen: 54
+	Hipotetyczny czas dzialania:	37.1580 sek
+	Uzyskana moc reaktora:		8.311 MW
+	Szacowana moc pracy reaktora:	2493.322 MW
+[+]		Wypalono cale dostarczone paliwo.
+
+Podsumowanie symulacji: '1'
+----------------------
+Zanurzenie pretow sterujacych:		0.5%
+Ilosc jader w paliwie:			100000
+Uzyskana moc reaktora:			8.3111 MW
+Szacowana moc reaktora:			2493.3216 MW
+Srednia temperatura rdzenia:		679.7086 K
+Maksymalna odnotowana temperatura:	1133.1972 K
+Srednia energia kinetyczna neutronow:	5.6150 MeV
+Maksymalna energia kin. neutronow:	102.0729 MeV
+Maksymalna ilosc neutronow w pokoleniu: 17146
+Sredni wsp. mnozenia neutronow:		1.07626
+Odchylenie std. wsp. mnozenia:		0.1772
+Maksymalny wsp. mnozenia neutronow:	1.20732
+Wiekszosc czasu reaktor pracowal w stanie nadkrytycznym.
+Symulacja zakonczona wypaleniem paliwa. Sukces.
+
+Symulacja trwala od: 14:03:59 do 14:05:19
+Koniec symulacji.
+	Symulacja komputerowa pracy Reaktora Jadrowego.
+	Mariusz B., 2014/15, Uczelnia.
+
+Reakcja chemiczna rozszczepien jadrowych:
+	U235 + n -> U236 -> Mo98 + Xe136 + 2n
+	Deficyt masy po rozszczepieniu: 0.228335 unitow
+	Energia rozszczepienia jednego atomu Uranu-235: 212.710780 MeV
+
+Rozpoczecie symulacji (czas: 14:12:34).
+Zanurzenie pretow sterujacych: 65%
+
+	Trwa pokolenie 1.	Powstalo: 146 neutronow.
+	Ilosc neutronow: 146	Ilosc rozszczepien: 64
+(  0%)  Reszta neutronow: 80	Energia kin. neutronow: 0.0136 MeV
+	Temp. chwilowa: 610	Pozostalo jader: 9936
+[X]	Wsp. mnozenia: k=0.877  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 2.	Powstalo: 128 neutronow.
+	Ilosc neutronow: 128	Ilosc rozszczepien: 72
+(  1%)  Reszta neutronow: 56	Energia kin. neutronow: 0.0153 MeV
+	Temp. chwilowa: 593	Pozostalo jader: 9864
+/!\	Wsp. mnozenia: k=1.125  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 3.	Powstalo: 144 neutronow.
+	Ilosc neutronow: 144	Ilosc rozszczepien: 71
+(  2%)  Reszta neutronow: 72	Energia kin. neutronow: 0.0151 MeV
+	Temp. chwilowa: 615	Pozostalo jader: 9793
+[X]	Wsp. mnozenia: k=0.986  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 4.	Powstalo: 142 neutronow.
+	Ilosc neutronow: 142	Ilosc rozszczepien: 78
+(  2%)  Reszta neutronow: 62	Energia kin. neutronow: 0.0166 MeV
+	Temp. chwilowa: 615	Pozostalo jader: 9715
+/!\	Wsp. mnozenia: k=1.099  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 5.	Powstalo: 156 neutronow.
+	Ilosc neutronow: 156	Ilosc rozszczepien: 77
+(  3%)  Reszta neutronow: 76	Energia kin. neutronow: 0.0164 MeV
+	Temp. chwilowa: 616	Pozostalo jader: 9638
+[X]	Wsp. mnozenia: k=0.987  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 6.	Powstalo: 154 neutronow.
+	Ilosc neutronow: 154	Ilosc rozszczepien: 82
+(  4%)  Reszta neutronow: 69	Energia kin. neutronow: 0.0174 MeV
+	Temp. chwilowa: 603	Pozostalo jader: 9556
+/!\	Wsp. mnozenia: k=1.065  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 7.	Powstalo: 164 neutronow.
+	Ilosc neutronow: 164	Ilosc rozszczepien: 85
+(  5%)  Reszta neutronow: 77	Energia kin. neutronow: 0.0181 MeV
+	Temp. chwilowa: 622	Pozostalo jader: 9471
+/!\	Wsp. mnozenia: k=1.037  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 8.	Powstalo: 170 neutronow.
+	Ilosc neutronow: 170	Ilosc rozszczepien: 98
+(  6%)  Reszta neutronow: 69	Energia kin. neutronow: 0.0208 MeV
+	Temp. chwilowa: 640	Pozostalo jader: 9373
+/!\	Wsp. mnozenia: k=1.153  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 9.	Powstalo: 196 neutronow.
+	Ilosc neutronow: 196	Ilosc rozszczepien: 99
+(  7%)  Reszta neutronow: 97	Energia kin. neutronow: 0.0211 MeV
+	Temp. chwilowa: 644	Pozostalo jader: 9274
+/!\	Wsp. mnozenia: k=1.010  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 10.	Powstalo: 198 neutronow.
+	Ilosc neutronow: 198	Ilosc rozszczepien: 106
+(  8%)  Reszta neutronow: 91	Energia kin. neutronow: 0.0226 MeV
+	Temp. chwilowa: 633	Pozostalo jader: 9168
+/!\	Wsp. mnozenia: k=1.071  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 11.	Powstalo: 212 neutronow.
+	Ilosc neutronow: 212	Ilosc rozszczepien: 112
+(  9%)  Reszta neutronow: 96	Energia kin. neutronow: 0.0238 MeV
+	Temp. chwilowa: 631	Pozostalo jader: 9056
+/!\	Wsp. mnozenia: k=1.057  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 12.	Powstalo: 224 neutronow.
+	Ilosc neutronow: 224	Ilosc rozszczepien: 127
+( 10%)  Reszta neutronow: 97	Energia kin. neutronow: 0.0270 MeV
+	Temp. chwilowa: 626	Pozostalo jader: 8929
+/!\	Wsp. mnozenia: k=1.134  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 13.	Powstalo: 254 neutronow.
+	Ilosc neutronow: 254	Ilosc rozszczepien: 142
+( 12%)  Reszta neutronow: 111	Energia kin. neutronow: 0.0302 MeV
+	Temp. chwilowa: 677	Pozostalo jader: 8787
+/!\	Wsp. mnozenia: k=1.118  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 14.	Powstalo: 284 neutronow.
+	Ilosc neutronow: 284	Ilosc rozszczepien: 150
+( 13%)  Reszta neutronow: 130	Energia kin. neutronow: 0.0319 MeV
+	Temp. chwilowa: 673	Pozostalo jader: 8637
+/!\	Wsp. mnozenia: k=1.056  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 15.	Powstalo: 300 neutronow.
+	Ilosc neutronow: 300	Ilosc rozszczepien: 144
+( 15%)  Reszta neutronow: 153	Energia kin. neutronow: 0.0307 MeV
+	Temp. chwilowa: 693	Pozostalo jader: 8493
+[X]	Wsp. mnozenia: k=0.960  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 16.	Powstalo: 288 neutronow.
+	Ilosc neutronow: 288	Ilosc rozszczepien: 129
+( 16%)  Reszta neutronow: 153	Energia kin. neutronow: 0.0275 MeV
+	Temp. chwilowa: 680	Pozostalo jader: 8364
+[X]	Wsp. mnozenia: k=0.896  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 17.	Powstalo: 258 neutronow.
+	Ilosc neutronow: 258	Ilosc rozszczepien: 123
+( 17%)  Reszta neutronow: 131	Energia kin. neutronow: 0.0262 MeV
+	Temp. chwilowa: 685	Pozostalo jader: 8241
+[X]	Wsp. mnozenia: k=0.953  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 18.	Powstalo: 246 neutronow.
+	Ilosc neutronow: 246	Ilosc rozszczepien: 120
+( 18%)  Reszta neutronow: 124	Energia kin. neutronow: 0.0255 MeV
+	Temp. chwilowa: 684	Pozostalo jader: 8121
+[X]	Wsp. mnozenia: k=0.976  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 19.	Powstalo: 240 neutronow.
+	Ilosc neutronow: 240	Ilosc rozszczepien: 126
+( 20%)  Reszta neutronow: 109	Energia kin. neutronow: 0.0268 MeV
+	Temp. chwilowa: 676	Pozostalo jader: 7995
+/!\	Wsp. mnozenia: k=1.050  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 20.	Powstalo: 252 neutronow.
+	Ilosc neutronow: 252	Ilosc rozszczepien: 129
+( 21%)  Reszta neutronow: 122	Energia kin. neutronow: 0.0274 MeV
+	Temp. chwilowa: 649	Pozostalo jader: 7866
+/!\	Wsp. mnozenia: k=1.024  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 21.	Powstalo: 258 neutronow.
+	Ilosc neutronow: 258	Ilosc rozszczepien: 126
+( 22%)  Reszta neutronow: 129	Energia kin. neutronow: 0.0268 MeV
+	Temp. chwilowa: 677	Pozostalo jader: 7740
+[X]	Wsp. mnozenia: k=0.977  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 22.	Powstalo: 252 neutronow.
+	Ilosc neutronow: 252	Ilosc rozszczepien: 116
+( 23%)  Reszta neutronow: 136	Energia kin. neutronow: 0.0247 MeV
+	Temp. chwilowa: 687	Pozostalo jader: 7624
+[X]	Wsp. mnozenia: k=0.921  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 23.	Powstalo: 232 neutronow.
+	Ilosc neutronow: 232	Ilosc rozszczepien: 114
+( 24%)  Reszta neutronow: 117	Energia kin. neutronow: 0.0243 MeV
+	Temp. chwilowa: 678	Pozostalo jader: 7510
+[X]	Wsp. mnozenia: k=0.983  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 24.	Powstalo: 228 neutronow.
+	Ilosc neutronow: 228	Ilosc rozszczepien: 111
+( 26%)  Reszta neutronow: 116	Energia kin. neutronow: 0.0236 MeV
+	Temp. chwilowa: 646	Pozostalo jader: 7399
+[X]	Wsp. mnozenia: k=0.974  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 25.	Powstalo: 222 neutronow.
+	Ilosc neutronow: 222	Ilosc rozszczepien: 97
+( 26%)  Reszta neutronow: 125	Energia kin. neutronow: 0.0206 MeV
+	Temp. chwilowa: 640	Pozostalo jader: 7302
+[X]	Wsp. mnozenia: k=0.874  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 26.	Powstalo: 194 neutronow.
+	Ilosc neutronow: 194	Ilosc rozszczepien: 101
+( 27%)  Reszta neutronow: 92	Energia kin. neutronow: 0.0215 MeV
+	Temp. chwilowa: 632	Pozostalo jader: 7201
+/!\	Wsp. mnozenia: k=1.041  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 27.	Powstalo: 202 neutronow.
+	Ilosc neutronow: 202	Ilosc rozszczepien: 97
+( 28%)  Reszta neutronow: 104	Energia kin. neutronow: 0.0206 MeV
+	Temp. chwilowa: 658	Pozostalo jader: 7104
+[X]	Wsp. mnozenia: k=0.960  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 28.	Powstalo: 194 neutronow.
+	Ilosc neutronow: 194	Ilosc rozszczepien: 87
+( 29%)  Reszta neutronow: 102	Energia kin. neutronow: 0.0185 MeV
+	Temp. chwilowa: 644	Pozostalo jader: 7017
+[X]	Wsp. mnozenia: k=0.897  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 29.	Powstalo: 174 neutronow.
+	Ilosc neutronow: 174	Ilosc rozszczepien: 83
+( 30%)  Reszta neutronow: 89	Energia kin. neutronow: 0.0177 MeV
+	Temp. chwilowa: 645	Pozostalo jader: 6934
+[X]	Wsp. mnozenia: k=0.954  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 30.	Powstalo: 166 neutronow.
+	Ilosc neutronow: 166	Ilosc rozszczepien: 78
+( 31%)  Reszta neutronow: 86	Energia kin. neutronow: 0.0166 MeV
+	Temp. chwilowa: 611	Pozostalo jader: 6856
+[X]	Wsp. mnozenia: k=0.940  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 31.	Powstalo: 156 neutronow.
+	Ilosc neutronow: 156	Ilosc rozszczepien: 78
+( 32%)  Reszta neutronow: 78	Energia kin. neutronow: 0.0166 MeV
+	Temp. chwilowa: 597	Pozostalo jader: 6778
+(-)	Wsp. mnozenia: k=1.000  Stan: Krytyczny
+
+	Trwa pokolenie 32.	Powstalo: 156 neutronow.
+	Ilosc neutronow: 156	Ilosc rozszczepien: 85
+( 33%)  Reszta neutronow: 71	Energia kin. neutronow: 0.0181 MeV
+	Temp. chwilowa: 628	Pozostalo jader: 6693
+/!\	Wsp. mnozenia: k=1.090  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 33.	Powstalo: 170 neutronow.
+	Ilosc neutronow: 170	Ilosc rozszczepien: 84
+( 33%)  Reszta neutronow: 85	Energia kin. neutronow: 0.0179 MeV
+	Temp. chwilowa: 607	Pozostalo jader: 6609
+[X]	Wsp. mnozenia: k=0.988  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 34.	Powstalo: 168 neutronow.
+	Ilosc neutronow: 168	Ilosc rozszczepien: 91
+( 34%)  Reszta neutronow: 76	Energia kin. neutronow: 0.0194 MeV
+	Temp. chwilowa: 635	Pozostalo jader: 6518
+/!\	Wsp. mnozenia: k=1.083  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 35.	Powstalo: 182 neutronow.
+	Ilosc neutronow: 182	Ilosc rozszczepien: 98
+( 35%)  Reszta neutronow: 82	Energia kin. neutronow: 0.0208 MeV
+	Temp. chwilowa: 634	Pozostalo jader: 6420
+/!\	Wsp. mnozenia: k=1.077  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 36.	Powstalo: 196 neutronow.
+	Ilosc neutronow: 196	Ilosc rozszczepien: 106
+( 36%)  Reszta neutronow: 84	Energia kin. neutronow: 0.0226 MeV
+	Temp. chwilowa: 613	Pozostalo jader: 6314
+/!\	Wsp. mnozenia: k=1.082  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 37.	Powstalo: 212 neutronow.
+	Ilosc neutronow: 212	Ilosc rozszczepien: 102
+( 37%)  Reszta neutronow: 108	Energia kin. neutronow: 0.0217 MeV
+	Temp. chwilowa: 659	Pozostalo jader: 6212
+[X]	Wsp. mnozenia: k=0.962  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 38.	Powstalo: 204 neutronow.
+	Ilosc neutronow: 204	Ilosc rozszczepien: 108
+( 38%)  Reszta neutronow: 95	Energia kin. neutronow: 0.0230 MeV
+	Temp. chwilowa: 621	Pozostalo jader: 6104
+/!\	Wsp. mnozenia: k=1.059  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 39.	Powstalo: 216 neutronow.
+	Ilosc neutronow: 216	Ilosc rozszczepien: 103
+( 39%)  Reszta neutronow: 109	Energia kin. neutronow: 0.0219 MeV
+	Temp. chwilowa: 669	Pozostalo jader: 6001
+[X]	Wsp. mnozenia: k=0.954  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 40.	Powstalo: 206 neutronow.
+	Ilosc neutronow: 206	Ilosc rozszczepien: 101
+( 41%)  Reszta neutronow: 104	Energia kin. neutronow: 0.0215 MeV
+	Temp. chwilowa: 668	Pozostalo jader: 5900
+[X]	Wsp. mnozenia: k=0.981  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 41.	Powstalo: 202 neutronow.
+	Ilosc neutronow: 202	Ilosc rozszczepien: 107
+( 42%)  Reszta neutronow: 90	Energia kin. neutronow: 0.0228 MeV
+	Temp. chwilowa: 660	Pozostalo jader: 5793
+/!\	Wsp. mnozenia: k=1.059  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 42.	Powstalo: 214 neutronow.
+	Ilosc neutronow: 214	Ilosc rozszczepien: 120
+( 43%)  Reszta neutronow: 93	Energia kin. neutronow: 0.0255 MeV
+	Temp. chwilowa: 640	Pozostalo jader: 5673
+/!\	Wsp. mnozenia: k=1.121  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 43.	Powstalo: 240 neutronow.
+	Ilosc neutronow: 240	Ilosc rozszczepien: 124
+( 44%)  Reszta neutronow: 115	Energia kin. neutronow: 0.0264 MeV
+	Temp. chwilowa: 641	Pozostalo jader: 5549
+/!\	Wsp. mnozenia: k=1.033  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 44.	Powstalo: 248 neutronow.
+	Ilosc neutronow: 248	Ilosc rozszczepien: 123
+( 45%)  Reszta neutronow: 125	Energia kin. neutronow: 0.0262 MeV
+	Temp. chwilowa: 668	Pozostalo jader: 5426
+[X]	Wsp. mnozenia: k=0.992  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 45.	Powstalo: 246 neutronow.
+	Ilosc neutronow: 246	Ilosc rozszczepien: 142
+( 47%)  Reszta neutronow: 101	Energia kin. neutronow: 0.0302 MeV
+	Temp. chwilowa: 663	Pozostalo jader: 5284
+/!\	Wsp. mnozenia: k=1.154  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 46.	Powstalo: 284 neutronow.
+	Ilosc neutronow: 284	Ilosc rozszczepien: 136
+( 48%)  Reszta neutronow: 144	Energia kin. neutronow: 0.0289 MeV
+	Temp. chwilowa: 695	Pozostalo jader: 5148
+[X]	Wsp. mnozenia: k=0.958  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 47.	Powstalo: 272 neutronow.
+	Ilosc neutronow: 272	Ilosc rozszczepien: 129
+( 49%)  Reszta neutronow: 142	Energia kin. neutronow: 0.0275 MeV
+	Temp. chwilowa: 692	Pozostalo jader: 5019
+[X]	Wsp. mnozenia: k=0.949  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 48.	Powstalo: 258 neutronow.
+	Ilosc neutronow: 258	Ilosc rozszczepien: 136
+( 51%)  Reszta neutronow: 120	Energia kin. neutronow: 0.0289 MeV
+	Temp. chwilowa: 686	Pozostalo jader: 4883
+/!\	Wsp. mnozenia: k=1.054  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 49.	Powstalo: 272 neutronow.
+	Ilosc neutronow: 272	Ilosc rozszczepien: 143
+( 52%)  Reszta neutronow: 124	Energia kin. neutronow: 0.0304 MeV
+	Temp. chwilowa: 678	Pozostalo jader: 4740
+/!\	Wsp. mnozenia: k=1.051  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 50.	Powstalo: 286 neutronow.
+	Ilosc neutronow: 286	Ilosc rozszczepien: 148
+( 54%)  Reszta neutronow: 138	Energia kin. neutronow: 0.0315 MeV
+	Temp. chwilowa: 687	Pozostalo jader: 4592
+/!\	Wsp. mnozenia: k=1.035  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 51.	Powstalo: 296 neutronow.
+	Ilosc neutronow: 296	Ilosc rozszczepien: 158
+( 55%)  Reszta neutronow: 136	Energia kin. neutronow: 0.0336 MeV
+	Temp. chwilowa: 667	Pozostalo jader: 4434
+/!\	Wsp. mnozenia: k=1.068  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 52.	Powstalo: 316 neutronow.
+	Ilosc neutronow: 316	Ilosc rozszczepien: 165
+( 57%)  Reszta neutronow: 147	Energia kin. neutronow: 0.0351 MeV
+	Temp. chwilowa: 685	Pozostalo jader: 4269
+/!\	Wsp. mnozenia: k=1.044  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 53.	Powstalo: 330 neutronow.
+	Ilosc neutronow: 330	Ilosc rozszczepien: 171
+( 59%)  Reszta neutronow: 156	Energia kin. neutronow: 0.0364 MeV
+	Temp. chwilowa: 705	Pozostalo jader: 4098
+/!\	Wsp. mnozenia: k=1.036  Stan: Lekko Nadkrytyczny
+
+	Trwa pokolenie 54.	Powstalo: 342 neutronow.
+	Ilosc neutronow: 342	Ilosc rozszczepien: 175
+( 60%)  Reszta neutronow: 164	Energia kin. neutronow: 0.0373 MeV
+	Temp. chwilowa: 691	Pozostalo jader: 3923
+/!\	Wsp. mnozenia: k=1.023  Stan: Lekko Nadkrytyczny
+
+
+Statystyki symulacji:
+	Czas rozpoczecia: 14:12:34	Czas zakonczenia: 14:12:39
+	Ilosc rozszczepien: 6077	Sr. energia neutronow: 0.024 MeV
+	Srednia temperatura: 650.29 K	Sredni wsp. mnozenia: 1.0001
+	Maksymalna temp.: 705.84 K	Maksymalny wsp. mnozenia: 1.1545
+	Max. neutronow: 342		Ilosc pokolen: 54
+	Hipotetyczny czas dzialania:	1.9457 sek
+	Uzyskana moc reaktora:		0.665 MW
+	Szacowana moc pracy reaktora:	1993.721 MW
+	Pozostalo do rozszczepienia:	3923 jadra
+[?]		Kaskada reakcji jadrowych samoczynnie wygasla.
+
+Podsumowanie symulacji: '1'
+----------------------
+Zanurzenie pretow sterujacych:		0.7%
+Ilosc jader w paliwie:			10000
+Uzyskana moc reaktora:			0.6646 MW
+Szacowana moc reaktora:			1993.7213 MW
+Srednia temperatura rdzenia:		650.2891 K
+Maksymalna odnotowana temperatura:	705.8407 K
+Srednia energia kinetyczna neutronow:	0.0235 MeV
+Maksymalna energia kin. neutronow:	0.0373 MeV
+Maksymalna ilosc neutronow w pokoleniu: 342
+Sredni wsp. mnozenia neutronow:		1.00013
+Odchylenie std. wsp. mnozenia:		0.1535
+Maksymalny wsp. mnozenia neutronow:	1.15447
+Wiekszosc czasu reaktor pracowal w stanie nadkrytycznym.
+Symulacja zakonczona samoistnym wygaszeniem reakcji.
+
+Symulacja trwala od: 14:12:34 do 14:12:40
+Koniec symulacji.
+	Symulacja komputerowa pracy Reaktora Jadrowego.
+	Mariusz B., 2014/15, Uczelnia.
+
+Reakcja chemiczna rozszczepien jadrowych:
+	U235 + n -> U236 -> Mo98 + Xe136 + 2n
+	Deficyt masy po rozszczepieniu: 0.228335 unitow
+	Energia rozszczepienia jednego atomu Uranu-235: 212.710780 MeV
+
+Rozpoczecie symulacji (czas: 14:20:39).
+Zanurzenie pretow sterujacych: 25%
+
+	Trwa pokolenie 1.	Powstalo: 136 neutronow.
+	Ilosc neutronow: 136	Ilosc rozszczepien: 80
+(  0%)  Reszta neutronow: 53	Energia kin. neutronow: 0.0170 MeV
+	Temp. chwilowa: 619	Pozostalo jader: 9920
+[X]	Wsp. mnozenia: k=1.176  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 2.	Powstalo: 160 neutronow.
+	Ilosc neutronow: 160	Ilosc rozszczepien: 94
+(  1%)  Reszta neutronow: 66	Energia kin. neutronow: 0.0200 MeV
+	Temp. chwilowa: 605	Pozostalo jader: 9826
+[X]	Wsp. mnozenia: k=1.175  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 3.	Powstalo: 188 neutronow.
+	Ilosc neutronow: 188	Ilosc rozszczepien: 116
+(  2%)  Reszta neutronow: 70	Energia kin. neutronow: 0.0247 MeV
+	Temp. chwilowa: 610	Pozostalo jader: 9710
+[X]	Wsp. mnozenia: k=1.234  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 4.	Powstalo: 232 neutronow.
+	Ilosc neutronow: 232	Ilosc rozszczepien: 139
+(  4%)  Reszta neutronow: 88	Energia kin. neutronow: 0.0296 MeV
+	Temp. chwilowa: 643	Pozostalo jader: 9571
+[X]	Wsp. mnozenia: k=1.198  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 5.	Powstalo: 278 neutronow.
+	Ilosc neutronow: 278	Ilosc rozszczepien: 175
+(  6%)  Reszta neutronow: 101	Energia kin. neutronow: 0.0372 MeV
+	Temp. chwilowa: 645	Pozostalo jader: 9396
+[X]	Wsp. mnozenia: k=1.259  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 6.	Powstalo: 350 neutronow.
+	Ilosc neutronow: 350	Ilosc rozszczepien: 231
+(  8%)  Reszta neutronow: 113	Energia kin. neutronow: 0.0492 MeV
+	Temp. chwilowa: 700	Pozostalo jader: 9165
+[X]	Wsp. mnozenia: k=1.320  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 7.	Powstalo: 462 neutronow.
+	Ilosc neutronow: 462	Ilosc rozszczepien: 282
+( 11%)  Reszta neutronow: 175	Energia kin. neutronow: 0.0601 MeV
+	Temp. chwilowa: 773	Pozostalo jader: 8883
+[X]	Wsp. mnozenia: k=1.221  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 8.	Powstalo: 564 neutronow.
+	Ilosc neutronow: 564	Ilosc rozszczepien: 353
+( 14%)  Reszta neutronow: 209	Energia kin. neutronow: 0.0756 MeV
+	Temp. chwilowa: 798	Pozostalo jader: 8530
+[X]	Wsp. mnozenia: k=1.252  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 9.	Powstalo: 706 neutronow.
+	Ilosc neutronow: 706	Ilosc rozszczepien: 449
+( 19%)  Reszta neutronow: 246	Energia kin. neutronow: 0.0979 MeV
+	Temp. chwilowa: 809	Pozostalo jader: 8081
+[X]	Wsp. mnozenia: k=1.272  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 10.	Powstalo: 898 neutronow.
+	Ilosc neutronow: 898	Ilosc rozszczepien: 562
+( 24%)  Reszta neutronow: 329	Energia kin. neutronow: 0.1524 MeV
+	Temp. chwilowa: 904	Pozostalo jader: 7519
+[X]	Wsp. mnozenia: k=1.252  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 11.	Powstalo: 1124 neutronow.
+	Ilosc neutronow: 1124	Ilosc rozszczepien: 689
+( 31%)  Reszta neutronow: 426	Energia kin. neutronow: 0.5084 MeV
+	Temp. chwilowa: 977	Pozostalo jader: 6830
+[X]	Wsp. mnozenia: k=1.226  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 12.	Powstalo: 1378 neutronow.
+	Ilosc neutronow: 1378	Ilosc rozszczepien: 872
+( 40%)  Reszta neutronow: 490	Energia kin. neutronow: 2.3494 MeV
+	Temp. chwilowa: 1006	Pozostalo jader: 5958
+[X]	Wsp. mnozenia: k=1.266  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 13.	Powstalo: 1744 neutronow.
+	Ilosc neutronow: 1744	Ilosc rozszczepien: 1089
+( 51%)  Reszta neutronow: 639	Energia kin. neutronow: 7.3640 MeV
+	Temp. chwilowa: 1126	Pozostalo jader: 4869
+[X]	Wsp. mnozenia: k=1.249  Stan: NADKRYTYCZNY
+
+	Trwa pokolenie 14.	Powstalo: 2178 neutronow.
+
+[!] UWAGA! Nastapilo przekroczenie maksymalnej dopuszczalnej
+[!] temperatury rdzenia jadrowego. Uruchomiono procedure
+[!] automatycznego wylaczania reaktora.
+
+[!] Zakonczono awaryjne zamykanie reaktora.
+	Szczytowa temperatura: 1199.341
+
+Statystyki symulacji:
+	Czas rozpoczecia: 14:20:39	Czas zakonczenia: 14:20:44
+	Ilosc rozszczepien: 6529	Sr. energia neutronow: 1.341 MeV
+	Srednia temperatura: 777.19 K	Sredni wsp. mnozenia: 0.9146
+	Maksymalna temp.: 1199.34 K	Maksymalny wsp. mnozenia: 1.3200
+	Max. neutronow: 2724		Ilosc pokolen: 18
+	Hipotetyczny czas dzialania:	1.7550 sek
+	Uzyskana moc reaktora:		14.522 MW
+	Szacowana moc pracy reaktora:	435.655 MW
+[!]	Do awarii doszlo podczas 14 pokolenia.
+
+Podsumowanie symulacji: '1'
+----------------------
+Zanurzenie pretow sterujacych:		0.2%
+Ilosc jader w paliwie:			10000
+Uzyskana moc reaktora:			14.5218 MW
+Szacowana moc reaktora:			435.6550 MW
+Srednia temperatura rdzenia:		777.1903 K
+Maksymalna odnotowana temperatura:	1199.3410 K
+Srednia energia kinetyczna neutronow:	1.3414 MeV
+Maksymalna energia kin. neutronow:	14.1735 MeV
+Maksymalna ilosc neutronow w pokoleniu: 2724
+Sredni wsp. mnozenia neutronow:		0.91456
+Odchylenie std. wsp. mnozenia:		0.5593
+Maksymalny wsp. mnozenia neutronow:	1.32000
+Wiekszosc czasu reaktor pracowal w stanie nadkrytycznym.
+Symulacja zakonczona awaria, pokolenie: 14
+
+Symulacja trwala od: 14:20:39 do 14:20:44
+Koniec symulacji.
